@@ -1,6 +1,8 @@
 
 # Bank Management System (Java Console App)
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d8ee7b7c-370a-4213-976e-3f1b127edd5c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db7c9cd4-3fd8-4314-bee0-7695af332847" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1af3712a-a974-4170-8d62-cb5bf57ab923" />
 
 A Java console application that simulates a **simple banking system** using **text files for data persistence**. This project supports creating accounts, depositing, withdrawing, balance checks, login, and transaction history — all stored and retrieved from `.txt` files.
 
